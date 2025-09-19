@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Olá, eu sou o José Igor!
 
-<!--
-**JoseIgorF/JoseIgorF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software** na Descomplica Faculdade Digital.  
+💼 Atualmente atuo como **Analista de Produtos** na **Kian Importação Ltda.**, com mais de 6 anos de experiência profissional, passando por logística, SAC, processos de certificação de produtos e, atualmente, desenvolvimento e gestão de portfólio de produtos.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🔎 Atuo com **desenvolvimento de produtos, pesquisa de mercado e relacionamento com fornecedores**.  
+- 📈 Foco em alinhar necessidades do mercado com produtos de qualidade e competitividade.  
+- 🌍 Experiência em importação e análise de oportunidades de produto.  
+- 📚 Estudando Engenharia de Software para unir tecnologia com gestão e inovação.  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</div>
+
+---
+
+## 📦 Projetos em destaque
+- 📌 **Automação com Python** – scripts que facilitam tarefas do dia a dia.  
+- 📌 **Projetos acadêmicos** – trabalhos práticos da faculdade de Engenharia de Software.  
+- 📌 **Mini aplicações web** – experiências com HTML, CSS e JavaScript.  
+- 📌 **Estudos de APIs e integração de sistemas** – experimentos com APIs externas.  
+
+*(em constante atualização 🚀)*
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseIgorF&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseIgorF&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/joseigorferreira)  
+- 📧 E-mail: joigoralvesferreira@gmail.com  
+
+---
+
+⭐ Se você chegou até aqui, fique à vontade para explorar meus repositórios e deixar uma estrela ⭐ nos projetos que mais gostar.  
+Obrigado pela visita! 😃
