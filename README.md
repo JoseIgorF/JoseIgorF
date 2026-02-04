@@ -35,17 +35,11 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseIgorF&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseIgorF&layout=compact&theme=radical)
-
----
-
 ## 📫 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/joseigorferreira)  
 - 📧 E-mail: joigoralvesferreira@gmail.com  
 
 ---
 
-⭐ Se você chegou até aqui, fique à vontade para explorar meus repositórios e deixar uma estrela ⭐ nos projetos que mais gostar.  
+Se você chegou até aqui, fique à vontade para explorar meus repositórios e deixar uma estrela ⭐ nos projetos que mais gostar.  
 Obrigado pela visita! 😃
